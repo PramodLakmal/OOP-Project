@@ -1,7 +1,11 @@
 2Y S1 OOP-Project
 
-We are using jdk8 and 
+We are using jdk8 
+
 Tomcat 9.0
 
+Dynamic Web Module : 4.0
+
 MYSQL Username :- "root" 
-      Password :- "123456"
+
+MYSQL Password :- "123456"
