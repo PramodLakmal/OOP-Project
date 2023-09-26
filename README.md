@@ -1,7 +1,7 @@
 2Y S1 OOP-Project
 
-We are using jdk8
+We are using jdk8 and 
 Tomcat 9.0
 
-MYSQL Username :- "root"
+MYSQL Username :- "root" 
       Password :- "123456"
