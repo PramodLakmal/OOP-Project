@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>LuxeStay</title>
+<title>Insert title here</title>
 </head>
 <body>
-
-<h1>Hello World</h1>
-
-<h2>Changed</h2>
-
+<h1>Test</h1>
 </body>
 </html>
